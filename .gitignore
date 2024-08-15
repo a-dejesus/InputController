@@ -1,0 +1,11 @@
+.idea
+.vscode
+_deps
+cmake-*
+build
+.DS_Store
+*.pdf
+example_auto_set_url.cmake
+pico_extras_import_optional.cmake
+pico_sdk_import.cmake
+cmake
